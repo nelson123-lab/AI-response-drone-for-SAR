@@ -31,18 +31,18 @@ https://forms.gle/mCAttqxVg5oUifKV8
 
 ## Key Features
 
-Optuna has modern functionalities as follows:
+AIRED has modern functionalities as follows:
 
-- [Lightweight, versatile, and platform agnostic architecture](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/001_first.html)
-  - Handle a wide variety of tasks with a simple installation that has few requirements.
-- [Pythonic search spaces](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/002_configurations.html)
-  - Define search spaces using familiar Python syntax including conditionals and loops.
-- [Efficient optimization algorithms](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/003_efficient_optimization_algorithms.html)
+- [High Payload capacity, versatile, and platform agnostic architecture]
+  - The AIRED can lift upto 5kg of weight with the help of it's 6 motors.
+- [Autopilot]
+  - The flight controller along with Jetson TX2 provides it the ability to calculate the flying distance and loop through the alloted region.
+- [Efficient optimization algorithms]
   - Adopt state-of-the-art algorithms for sampling hyperparameters and efficiently pruning unpromising trials.
-- [Easy parallelization](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html)
+- [Easy parallelization]
   - Scale studies to tens or hundreds or workers with little or no changes to the code.
-- [Quick visualization](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/005_visualization.html)
-  - Inspect optimization histories from a variety of plotting functions.
+- [Quick visualization]
+  - The results obtained from the AIRED are streamed live in a monitor with the human detection.
 
 
 ## Basic Concepts
