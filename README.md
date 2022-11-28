@@ -2,7 +2,6 @@
 
 # AIRED : Artificially intelligent Emergency response drone for SAR
 
-# On editing process!!
 
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.8.0-blue)](https://www.tensorflow.org/api_docs/python/tf)
@@ -16,14 +15,12 @@
 
 AIRED has modern functionalities as follows:
 
-- [High Payload capacity, versatile, and platform agnostic architecture]
-  - The AIRED can lift upto 5kg of weight with the help of it's 6 motors.
-- [Autopilot]
-  - The flight controller along with Jetson TX2 provides it the ability to calculate the flying distance and loop through the alloted region.
-- [Efficient optimization algorithms]
-  - Adopt state-of-the-art algorithms for sampling hyperparameters and efficiently pruning unpromising trials.
-- [Easy parallelization]
-  - Scale studies to tens or hundreds or workers with little or no changes to the code.
-- [Quick visualization]
-  - The results obtained from the AIRED are streamed live in a monitor with the human detection.
+- High Payload capacity, versatile, and platform agnostic architecture
+  - With the assistance of its six motors, the AIRED can raise up to 5 kg of weight.
+- Autopilot
+  - AIRED can compute the flying distance and loop across the designated area thanks to the flight controller and Jetson TX2.
+- Efficient optimization
+  - Swarm formation capability for faster ground coverage
+- Quick visualization
+  - The AIRED results are transmitted in real time on a monitor alongside GPS coordinates of human detection.
 
