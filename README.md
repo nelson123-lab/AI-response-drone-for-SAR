@@ -24,3 +24,11 @@ AIRED has modern functionalities as follows:
 - Quick visualization
   - The AIRED results are transmitted in real time on a monitor alongside GPS coordinates of human detection.
 
+## Motivation
+-	Kerala, a state in southern India, reported experiencing its worst flood in nearly a century on August 16, 2018. 
+140 individuals remain missing, and over 483 people died. Our project was helpful for search and rescue efforts.
+
+## Implementation
+-	Utilizing the HERIDAL dataset, we created a multimodal technique (FPN + Classification) for human identification. 
+- We were able to launch a hot drop using our drone's 5 kg of payload (Survival kit).
+-	The precision and recall of the experiment were 58.89% and 84.65%, respectively.
