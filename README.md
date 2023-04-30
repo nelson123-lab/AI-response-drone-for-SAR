@@ -32,3 +32,6 @@ AIRED has modern functionalities as follows:
 -	Utilizing the HERIDAL dataset, we created a multimodal technique (FPN + Classification) for human identification. 
 - We were able to launch a hot drop using our drone's 5 kg of payload (Survival kit).
 -	The precision and recall of the experiment were 58.89% and 84.65%, respectively.
+
+
+This project was recognized as the final nomini in PPTIA Innovation awards.
