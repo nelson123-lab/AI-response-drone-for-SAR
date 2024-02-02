@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/nelson123-lab/AI-response-drone-for-SAR/blob/a6cbb162743b5d2a812b6788d34146fa2515a112/Drone%20Project/Drone%20(4).jpeg" width="800"/></div>
+<div align="center"><img src="https://github.com/nelson123-lab/AI-response-drone-for-SAR/blob/e6164c83bcc138c7a5c09b6404c22f9855a78e01/Drone%20Project/Drone%20(5).jpeg" width="800"/></div>
 
 # AIRED : Artificially intelligent Emergency response drone for SAR
 
